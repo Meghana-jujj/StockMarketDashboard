@@ -1,18 +1,28 @@
-📊 Stock Market Dashboard
+# 📈 Stock Market Dashboard
 
 
-This is an interactive dashboard built using Dash, Python, and Plotly to visualize stock market trends. The dashboard fetches stock data from a SQLite database and provides various visualizations to track stock performance.
+**Welcome to the Stock Market Dashboard!**  
 
-Features:
-Stock Price Trend: Visualizes the daily trends of stock prices over time.
+### 🛠 Technologies Used:
+- **Python**: Backend and data processing
+- **Dash**: Frontend for building interactive web apps
+- **Plotly**: Visualizations for graphs
+- **SQLite**: Database for storing stock data
 
-Interactive Graphs: Built with Plotly for interactive line and bar charts.
+### Features:
+- **📊 Daily Trends**: View stock price trends with moving averages.
+- **📉 Volume Graphs**: Analyze the volume of stocks traded over time.
 
-Responsive Layout: Mobile-friendly design with an intuitive UI.
+  
+### 🚀 How to Run:
+1. **Clone** the repository.
+2. **Install dependencies**:  
+   `pip install -r requirements.txt`
+3. **Run the app**:  
+   `python dashboard.py`
+4. **Visit** the local URL in your browser.
 
-Technologies Used:
-Python
-Dash
-Plotly
-SQLite
+
+### 🛠️ Contributing:
+Feel free to fork this repository, make changes, and submit pull requests.
 
